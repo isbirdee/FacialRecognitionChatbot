@@ -12,7 +12,7 @@ import os
 engine = pyttsx3.init()
 
 # Configure your Gemini API key
-API_KEY = 'AIzaSyATzqQQmPog8iXZOfhS1NGgyGzguj6Asd8'
+API_KEY = '(your api key here)'
 genai.configure(api_key=API_KEY)
 
 # Initialize text-to-speech engine
