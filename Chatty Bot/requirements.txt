@@ -1,0 +1,6 @@
+opencv-python
+SpeechRecognition
+google-generativeai
+pyttsx3
+deepface
+pillow
